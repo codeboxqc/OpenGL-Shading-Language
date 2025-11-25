@@ -16,6 +16,11 @@ On macOS (with Homebrew): brew install sdl2 glew
 
 On Windows: You'll need to download the development libraries from the SDL and GLEW websites and configure your IDE to link against them.
 
+
+https://github.com/user-attachments/assets/693c4586-992d-40b8-839a-597c6551a714
+
+![Untitled](https://github.com/user-attachments/assets/a0815260-fd75-4705-95b3-c2054c531232)
+
 Building the Project
 This project includes two C++ source files, loader.cpp and Main.cpp. A simple build command using g++ would look like this:
 
